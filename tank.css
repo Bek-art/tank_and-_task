@@ -1,0 +1,198 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.GZ{
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 700px;
+  max-height: 700px;
+}
+
+.Col{
+  display: flex;
+  flex-wrap: nowrap;
+  max-width: 700px;
+  max-height: 70px;
+}
+
+.Cell{
+  width: 70px;
+  height: 70px;
+  background: black;
+  box-shadow: white 0 0 0 1px;
+}
+#x3y3 { 
+  background-color:red; 
+
+}
+#x3y4 {
+  background-color: red;
+} 
+#x3y5{
+  background-color: red;
+}
+#x6y3{
+  background-color: red;
+}
+#x6y4 {
+background-color: red;
+} 
+#x6y5{
+  background-color:red;
+}
+#x8y7{
+  background-color: green;
+}
+#x8y6 {
+  background-color: green;
+} 
+#x2y5{
+  background-color: grey; 
+}
+#x5y6 { 
+background-color: grey;
+}
+#x7y4 { 
+  background-color: grey;
+}
+#x1y6 {
+  background-color: grey;
+} 
+#x2y4 {
+background-image: url('img/23.jpg');
+background-size: contain;
+background-repeat: no-repeat;
+width: 70px;
+height: 70px;
+}  
+#x8y4{
+background-image: url('img/32.jpg');
+background-size: contain;
+background-repeat: no-repeat;
+width: 70px;
+height: 70px;
+}
+#x10y0{
+  background-color: red;
+}
+#x9y0{
+  background-color: red;
+}
+#x8y0{
+  background-color: red;
+}
+#x7y0{
+  background-color: red;
+}  
+#x6y0{
+  background-color: red;
+}
+#x5y0{
+  background-color: red;
+}
+#x4y0{
+  background-color: red;
+}
+#x3y0{
+  background-color: red;
+}
+#x2y0{
+  background-color: red;
+}
+#x1y0{
+  background-color: red;
+}
+#x0y0{
+  background-color: red;
+}
+#x9y9{
+  background-color: red;
+}
+#x8y9{
+  background-color: red;
+}
+#x7y9{
+  background-color: red;
+}
+#x6y9{
+  background-color: red;
+}
+#x5y9{
+  background-color: red;
+}
+#x4y9{
+  background-color: red;
+}
+#x3y9{
+  background-color: red;
+}
+#x2y9{
+  background-color: red;
+}
+#x1y9{
+  background-color: red;
+}
+#x0y9{
+  background-color: red;
+}
+#x9y8{
+  background-color: red;
+}
+#x9y7{
+  background-color: red;
+}
+#x9y6{
+  background-color: red;
+}
+#x9y5{
+  background-color: red;
+}
+#x9y4{
+  background-color: red;
+}
+#x9y3{
+  background-color: red;
+}
+#x9y2{
+  background-color: red;
+}
+#x10y1{
+  background-color: red;
+}
+#x0y1{
+  background-color: green;
+}
+#x0y2{
+  background-color: green;
+}
+#x0y3{
+  background-color: green;
+}
+#x0y4{
+  background-color: grey;
+}
+#x0y5{
+  background-color: grey;
+}
+#x0y6{
+  background-color: green;
+}
+#x0y7{
+  background-color: green;
+}
+#x0y8{
+  background-color: grey;
+}
+#x0y9{
+  background-color: green;
+}
+
+
+
+
+
+
+
+
